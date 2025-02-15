@@ -1,6 +1,6 @@
 Geolocation Redirect
 
-##Description
+## Description
 
 The Geolocation Redirect plugin allows you to redirect users based on their geographical location. This is useful for websites that want to serve different content or direct users to specific pages based on their country, state, or city.
 
